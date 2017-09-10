@@ -1,0 +1,6 @@
+C:\VSDev\designPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+C:\VSDev\designPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\VSDev\designPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\VSDev\designPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\VSDev\designPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\VSDev\designPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

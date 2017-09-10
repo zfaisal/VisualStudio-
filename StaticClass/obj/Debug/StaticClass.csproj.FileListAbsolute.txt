@@ -1,0 +1,6 @@
+C:\VSDev\designPattern\StaticClass\bin\Debug\StaticClass.exe.config
+C:\VSDev\designPattern\StaticClass\bin\Debug\StaticClass.exe
+C:\VSDev\designPattern\StaticClass\bin\Debug\StaticClass.pdb
+C:\VSDev\designPattern\StaticClass\obj\Debug\StaticClass.csprojResolveAssemblyReference.cache
+C:\VSDev\designPattern\StaticClass\obj\Debug\StaticClass.exe
+C:\VSDev\designPattern\StaticClass\obj\Debug\StaticClass.pdb
