@@ -10,8 +10,8 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            var studentType = Factory.GetInstance("student");
-            var teacherType = Factory.GetInstance("teacher");
+            var studentType = Factory.GetInstance("student").GetName();
+            var teacherType = Factory.GetInstance("teacher").GetName();
         }
     }
 }
